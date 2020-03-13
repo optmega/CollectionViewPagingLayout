@@ -1,6 +1,13 @@
 # CollectionViewPagingLayout
 A custom `UICollectionViewLayout` that gives you the ability to apply transforms easily on the cells    by conforming your cell class to `TransformableView` protocol you will get a `progress` value and you can use it to change the cell view. 
 
+## Preview
+<p float="left">
+<img width="375" src="https://github.com/optmega/CollectionViewPagingLayout/blob/master/demo1.gif"></img>
+<img width="375" src="https://github.com/optmega/CollectionViewPagingLayout/blob/master/demo2.gif"></img>
+</p>
+<img width="800" src="https://github.com/optmega/CollectionViewPagingLayout/blob/master/demo3.gif"></img>
+
 #### Manually
 Just add all the files under `Lib` directory to your project
 
